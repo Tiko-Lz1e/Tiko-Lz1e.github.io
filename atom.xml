@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://tiko-lz1e.github.io/"/>
   <updated>2020-01-09T04:44:13.955Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://tiko-lz1e.github.io/</id>
   
   <author>
     <name>Tiko</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>带标签文本分类工具</title>
-    <link href="http://yoursite.com/2020/01/08/%E5%B8%A6%E6%A0%87%E7%AD%BE%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E5%B7%A5%E5%85%B7/"/>
-    <id>http://yoursite.com/2020/01/08/%E5%B8%A6%E6%A0%87%E7%AD%BE%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E5%B7%A5%E5%85%B7/</id>
+    <link href="https://tiko-lz1e.github.io/2020/01/08/%E5%B8%A6%E6%A0%87%E7%AD%BE%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E5%B7%A5%E5%85%B7/"/>
+    <id>https://tiko-lz1e.github.io/2020/01/08/%E5%B8%A6%E6%A0%87%E7%AD%BE%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E5%B7%A5%E5%85%B7/</id>
     <published>2020-01-08T14:59:44.000Z</published>
     <updated>2020-01-09T04:44:13.955Z</updated>
     
@@ -36,16 +36,16 @@
     
     
     
-      <category term="正则表达式" scheme="http://yoursite.com/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
+      <category term="正则表达式" scheme="https://tiko-lz1e.github.io/tags/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F/"/>
     
-      <category term="文本分类" scheme="http://yoursite.com/tags/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/"/>
+      <category term="文本分类" scheme="https://tiko-lz1e.github.io/tags/%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/01/08/hello-world/"/>
-    <id>http://yoursite.com/2020/01/08/hello-world/</id>
+    <link href="https://tiko-lz1e.github.io/2020/01/08/hello-world/"/>
+    <id>https://tiko-lz1e.github.io/2020/01/08/hello-world/</id>
     <published>2020-01-08T09:25:12.556Z</published>
     <updated>2020-01-08T09:25:12.556Z</updated>
     
